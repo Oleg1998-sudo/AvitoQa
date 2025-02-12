@@ -7,8 +7,8 @@
 Установка npm
 Перед началом установки Cypress убедитесь, что у вас обновлена система и установлен npm:
 Обновите список пакетов и установите обновления:
-sudo apt update && sudo apt upgrade
-sudo apt install npm
+'sudo apt update && sudo apt upgrade
+'sudo apt install npm
 
 Установка Cypress
 Перейдите в любую удобную директорию (например, в домашнюю папку или папку проекта):
